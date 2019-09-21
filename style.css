@@ -160,6 +160,9 @@ body{
         font-weight: 800;
         font-size: 60px;
     }
+    .slide-title span{
+        display: block;
+    }
     .slide-btn{
         display: inline-block;
         padding: 12px 50px;
@@ -1364,7 +1367,7 @@ body{
         padding-left: 0;
     }
     .map-gllacy img{
-        width: auto;
+        width: 100%;
     }
     .address-hom-office{
         position: absolute;
