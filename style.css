@@ -493,7 +493,11 @@ body{
         margin-top: 40px;
     }
     .map-gllacy img{
-        width: inherit;
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 0;
+        padding-right: 0;
     }
     .address-hom-office{
         width: 320px;
@@ -1129,7 +1133,7 @@ body{
         width: 100%;
     }
     .map-gllacy img{
-        width: 768px;
+        width: 100%;
     }
     .snippet-advertising{
         display: flex;
